@@ -13,9 +13,8 @@ http://127.0.0.1:8000/
 open
 http://127.0.0.1:8000/docs
 
-open
-http://127.0.0.1:8000/predict
 
+To get the prediction for the post sideway 5 bar change:
 open another terminal
 
 then run the curl command
