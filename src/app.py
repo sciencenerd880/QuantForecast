@@ -7,6 +7,10 @@ conda activate yourenvname
 cd src
 uvicorn app:app --reload
 
+or 
+
+uvicorn src.app:app --reload
+
 open
 http://127.0.0.1:8000/
 
